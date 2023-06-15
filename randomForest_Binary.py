@@ -3,8 +3,6 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 import csv
 import chardet
-import csv
-import chardet
 
 with open('negative_commits.csv', 'rb') as f:
     result = chardet.detect(f.read())
