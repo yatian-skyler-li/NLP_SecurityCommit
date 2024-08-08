@@ -20,9 +20,9 @@ This project involves using machine learning (ML) and natural language processin
 
 ## Scripts and ML Models
 
-* Python scripts applying the following models are under "scripts\" folder
-* Models used for binary classification: SVM, RNN, RandomForest, linearRegression, BERT, CODEBERT, GRAPHCODEBERT
-* Models used for multiclass classification: SVM, NaiveBayes, logisticRegression
+* Models used for binary classification ("scripts\binary"): SVM, RNN, Random Forest, Linear Regression, BERT, CODEBERT, GRAPHCODEBERT
+* Models used for multiclass classification ("scripts\multinary): SVM, Naive Bayes, Logistic Regression
+* Detailed comments were added for main steps in the scripts
 
 ## Methodology
 
